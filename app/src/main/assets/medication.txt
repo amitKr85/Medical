@@ -1,0 +1,3 @@
+jaundice, freshliv
+ TuberCulosis,isoniazd ,rifampicin
+ thyroid , levo -t,penicillin G

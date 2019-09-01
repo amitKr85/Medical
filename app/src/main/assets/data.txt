@@ -1,0 +1,5 @@
+TuberCulosis,Coughing that lasts three or more weeks,Coughing up blood,Chest pain,pain with breathing,pain with coughing,Fatigue,Fever,Night sweats,Chills,Loss of appetite
+jaundice ,pale stools,dark urine,itchiness,abdominal pain,vomiting,fever
+Hepatitis B,Jaundice,Light-colored poop,Fever,Fatigue,Stomach trouble like loss of appetite & nausea,Belly pain
+Thyroid,swelling in the neck caused by an enlarged thyroid gland, or goiter,nervousness,  mood swings, and decreased concentration,diarrhea,difficulty breathing,fatigue, muscle weakness,hyperactivity,oversensitivity to heat, excessive sweating,infertility and a loss of interest in sex,itchy skin with raised itchy swellings
+Diabetes,Urinating often,Feeling very thirsty,Feeling very hungry—even though you are eating,Extreme fatigue,Blurry vision,Cuts that are slow to heal, bruises that are slow to heal,Weight loss—even though you are eating more,Tingling, pain, numbness in the hands, numbness in the feet
