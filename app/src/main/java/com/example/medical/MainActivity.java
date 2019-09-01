@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+//        Intent intent = new Intent(this, HospitalListActivity.class);
+//        startActivity(intent);
         Object[] ret = readData("data.txt");
         final HashMap<String,Set<String>> dict=(HashMap<String,Set<String>>)ret[0];
         final HashSet<String> allSymps=(HashSet<String>)ret[1];
